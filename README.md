@@ -39,6 +39,8 @@ You will need the following tools to rebuild this
 1. Android Development Kit
 2. apktool
 
+```
 $ apktool b -o uk.co.immediate.mobile.visordown_unaligned.apk uk.co.immediate.mobile.visordown
 $ jarsigner -verbose -keystore ~/.android/debug.keystore -storepass android -keypass android uk.co.immediate.mobile.visordown_unaligned.apk androiddebugkey
 $ zipalign -v -f 4 uk.co.immediate.mobile.visordown_unaligned.apk uk.co.immediate.mobile.visordown_mod.apk
+```
