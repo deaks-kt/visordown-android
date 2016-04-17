@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="abs__home" />
+    <item type="id" name="abs__up" />
+    <item type="id" name="abs__action_menu_divider" />
+    <item type="id" name="abs__action_menu_presenter" />
+    <item type="id" name="abs__progress_circular" />
+    <item type="id" name="abs__progress_horizontal" />
+    <item type="id" name="abs__action_bar_title">false</item>
+    <item type="id" name="abs__action_bar_subtitle">false</item>
+    <item type="id" name="abs__imageButton">false</item>
+    <item type="id" name="abs__textButton">false</item>
+    <item type="id" name="abs__action_mode_close_button">false</item>
+    <item type="id" name="abs__activity_chooser_view_content">false</item>
+    <item type="id" name="abs__expand_activities_button">false</item>
+    <item type="id" name="abs__image">false</item>
+    <item type="id" name="abs__default_activity_button">false</item>
+    <item type="id" name="abs__list_item">false</item>
+    <item type="id" name="abs__icon">false</item>
+    <item type="id" name="abs__title">false</item>
+    <item type="id" name="abs__titleDivider">false</item>
+    <item type="id" name="abs__content">false</item>
+    <item type="id" name="abs__checkbox">false</item>
+    <item type="id" name="abs__shortcut">false</item>
+    <item type="id" name="abs__radio">false</item>
+    <item type="id" name="abs__action_bar_container">false</item>
+    <item type="id" name="abs__action_bar">false</item>
+    <item type="id" name="abs__action_context_bar">false</item>
+    <item type="id" name="abs__split_action_bar">false</item>
+    <item type="id" name="abs__action_mode_bar_stub">false</item>
+    <item type="id" name="abs__action_mode_bar">false</item>
+    <item type="id" name="webview">false</item>
+    <item type="id" name="RelativeLayout02">false</item>
+    <item type="id" name="advert">false</item>
+    <item type="id" name="feeditem_icon">false</item>
+    <item type="id" name="feeditem_name">false</item>
+    <item type="id" name="feeditem_description">false</item>
+    <item type="id" name="scroller">false</item>
+    <item type="id" name="viewpagercontainer">false</item>
+    <item type="id" name="viewpager">false</item>
+    <item type="id" name="pageindicator">false</item>
+    <item type="id" name="countryLV">false</item>
+    <item type="id" name="layout">false</item>
+    <item type="id" name="imageView">false</item>
+    <item type="id" name="back">false</item>
+    <item type="id" name="share">false</item>
+    <item type="id" name="refresh">false</item>
+    <item type="id" name="settings">false</item>
+    <item type="id" name="website">false</item>
+</resources>
