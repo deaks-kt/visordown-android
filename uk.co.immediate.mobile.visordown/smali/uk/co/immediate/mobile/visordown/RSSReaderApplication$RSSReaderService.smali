@@ -1218,6 +1218,18 @@
 
     move-result-object v18
 
+### hack to deal with invalid RSS feed
+
+    const-string v19, "original"
+
+    const-string v20, "tinycropped"
+
+    invoke-virtual/range {v18 .. v20}, Ljava/lang/String;->replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;
+
+    move-result-object v18
+
+###
+
     move-object/from16 v0, v18
 
     iput-object v0, v10, Luk/co/immediate/mobile/visordown/FeedItem;->thumbnailUrl:Ljava/lang/String;
